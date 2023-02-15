@@ -6,6 +6,6 @@
 //
 
 public class SampleCoreProject {
-    public var sampleVariable: String = "SampleCoreProject"
+    public var sampleVariable: String = "Test SampleCoreProject"
     public init() { }
 }
