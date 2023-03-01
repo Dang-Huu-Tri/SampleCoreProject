@@ -7,6 +7,6 @@
 
 public class SampleCoreProject {
     public var sampleVariable: String = "Test Module First SampleCoreProject"
-    public var hulaVariable: String = "Test Module First SampleCoreProject"
+    public var hulaVariable: String = "SampleCoreProject"
     public init() { }
 }
