@@ -6,6 +6,6 @@
 //
 
 public class SampleCoreProject {
-    public var sampleVariable: String = "Test SampleCoreProject"
+    public var sampleVariable: String = "Test Module First SampleCoreProject"
     public init() { }
 }
